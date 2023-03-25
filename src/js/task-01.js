@@ -10,7 +10,6 @@ categoriesEL.forEach(el => {
     `Category : ${categoryTitle}
     Elements : ${elements}`)
 });
-
 // const categoriesEl = document.querySelector('#categories')
 // console.log(categoriesEl)
 
@@ -22,4 +21,4 @@ categoriesEL.forEach(el => {
 //     console.log(`Category: ${child.firstElementChild.textContent}`)
 //     console.log(`\tElements: ${child.lastElementChild.children.length}\n\n`)
     
-// });
+// })
