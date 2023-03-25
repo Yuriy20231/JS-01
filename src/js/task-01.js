@@ -21,4 +21,4 @@ categoriesEL.forEach(el => {
 //     console.log(`Category: ${child.firstElementChild.textContent}`)
 //     console.log(`\tElements: ${child.lastElementChild.children.length}\n\n`)
     
-// })
+// }).
